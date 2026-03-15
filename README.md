@@ -4,7 +4,7 @@ AI Resume Builder is a web application that helps users create professional resu
 
 ## Live Application
 Try the app here:
-https://airesumebuilder-egsrpcqktgqxegx9imhthq.streamlit.app/
+https://ai-resume-builder-jbbhzopjch4xt3ggymp3kx.streamlit.app
 
 ## GitHub Repository
 https://github.com/amrithadevi06/AI-Resume-Builder
