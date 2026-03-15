@@ -13,7 +13,9 @@ AI Resume Builder is a web application that helps users generate professional re
 - Streamlit
 
 ## Live App
-https://ai-resume-builder-jbbhzopjch4xt3ggymp3kx.streamlit.app
+https://ai-resume-builder ∙ main ∙ resume_builder_app.py
+
+
 
 ## GitHub Repository
 https://github.com/amrithadevi06/AI-Resume-Builder
